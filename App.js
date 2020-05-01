@@ -85,7 +85,6 @@ const styles = StyleSheet.create({
    },
 
    button : {
-    marginTop: 15,
     alignSelf: "center",
     backgroundColor: "#9bc400",
     paddingTop: 10,
